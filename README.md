@@ -6,7 +6,24 @@ Project link: https://tribute-page-apj-kalamm.netlify.app/
 Aerospace Scientist · Missile Man of India · 11th President of India
 ![image](https://github.com/user-attachments/assets/2109f4d5-19ec-4929-b13e-4e3d68a7adc4)
 
+---
 
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
 “A photograph of Dr. A.P.J. Abdul Kalam”
 
 📖 Biography
